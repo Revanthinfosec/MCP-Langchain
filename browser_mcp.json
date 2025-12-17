@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "duckduckgo-search": {
+      "command": "npx",
+      "args": ["-y", "duckduckgo-mcp-server"],
+      "config": {
+        "search": {
+          "delay": 2000,
+          "retries": 3,
+          "timeout": 10000
+        }
+      }
+    }
+  }
+}

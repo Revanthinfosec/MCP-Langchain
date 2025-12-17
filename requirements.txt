@@ -1,0 +1,4 @@
+langchain-google-genai>=0.1.0
+mcp-use>=0.0.5
+python-dotenv>=1.0.0
+duckduckgo-search>=3.9.0
